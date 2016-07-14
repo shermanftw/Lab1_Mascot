@@ -35,7 +35,6 @@ namespace Lab1_Mascot
 
         private void mascot_pic_Click(object sender, EventArgs e)
         {
-
         }
     }
 }
